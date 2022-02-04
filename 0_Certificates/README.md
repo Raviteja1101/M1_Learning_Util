@@ -1,2 +1,2 @@
-SoloLearn Certificate
-Cisco NDG Certificate
+// SoloLearn Certificate
+// Cisco NDG Certificate
