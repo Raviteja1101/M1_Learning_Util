@@ -6,7 +6,7 @@ In this project, we can manage employee records – add, list, modify and delete
 # Requirements: -
 # High Level Requirements:
 The main features of this project include basic file handling operations; we can learn how to add, list, modify and delete data from file. Below are the features that are added in this project.
-* •	Add Record
+* •	Add Record (Employee Name, Age, Salary)
 * •	List Records
 * •	Modify Records
 * •	Delete Records
