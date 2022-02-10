@@ -1,1 +1,1 @@
-# Uploaded Word Document and Behavioural Diagram
+# Uploaded Word Document and Behavioural/Structural Diagram
