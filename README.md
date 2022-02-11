@@ -5,3 +5,5 @@ _Employee Record System Project is a console application using the C programming
 # ![Code grade](https://api.codiga.io/project/31038/score/svg)
 
 # ![Code grade](https://api.codiga.io/project/31038/status/svg)
+
+[![Code Grade](https://api.codiga.io/project/<PROJECT_IDENTIFIER>/score/svg)](https://www.codiga.io)
