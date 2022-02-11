@@ -5,4 +5,4 @@ _Employee Record System Project is a console application using the C programming
 
 
 
-
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/e474d7cba8994958912bb58b9054f436)](https://www.codacy.com/gh/Raviteja1101/M1_Learning_Application/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Raviteja1101/M1_Learning_Application&amp;utm_campaign=Badge_Grade)
