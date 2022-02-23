@@ -20,7 +20,7 @@ In this project, we can manage employee records – add, list, modify and delete
 |LLR_03|We can modify details by selecting Option 3|Implemented|
 |LLR_04|We can delete details by selecting Option 4|Implemented|
 |LLR_05|We can exit the menu by selecting Option 5|Implemented|
-# Feature:-
+# Features:-
 The main features of this project include basic file handling operations; we can learn how to add, list, modify and delete data from file. Below are the features that are added in this project.
 * •	Add Record (Employee Name, Age, Salary)
 * •	List Records
