@@ -14,5 +14,5 @@ _Employee Record System Project is a console application using the C programming
 |**6_ImagesAndVideos**|Uploaded output images|
 |**7_Other**|Reference and other files|
 
-## Badeges
+## Badges
 # ![Codacy Badge](https://app.codacy.com/project/badge/Grade/e474d7cba8994958912bb58b9054f436)  ![Codiga Badge](https://api.codiga.io/project/31110/score/svg)
